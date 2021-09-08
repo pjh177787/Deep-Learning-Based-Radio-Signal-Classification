@@ -1,5 +1,6 @@
 *.wav
 *.gz
+Data/GOLD_XYZ_OSC.0001_1024.hdf5
 ExtractDatasetIvan/part0.h5
 ExtractDatasetIvan/part1.h5
 ExtractDatasetIvan/part10.h5
@@ -48,6 +49,30 @@ ExtractDatasetMix/part6.h5
 ExtractDatasetMix/part7.h5
 ExtractDatasetMix/part8.h5
 ExtractDatasetMix/part9.h5
+ExtractDataset/part0.h5
+ExtractDataset/part1.h5
+ExtractDataset/part10.h5
+ExtractDataset/part11.h5
+ExtractDataset/part12.h5
+ExtractDataset/part13.h5
+ExtractDataset/part14.h5
+ExtractDataset/part15.h5
+ExtractDataset/part16.h5
+ExtractDataset/part17.h5
+ExtractDataset/part18.h5
+ExtractDataset/part19.h5
+ExtractDataset/part2.h5
+ExtractDataset/part20.h5
+ExtractDataset/part21.h5
+ExtractDataset/part22.h5
+ExtractDataset/part23.h5
+ExtractDataset/part3.h5
+ExtractDataset/part4.h5
+ExtractDataset/part5.h5
+ExtractDataset/part6.h5
+ExtractDataset/part7.h5
+ExtractDataset/part8.h5
+ExtractDataset/part9.h5
 Submission/Final/Final_Team3_Farhan Tandia_Ivan Surya H.pptx
 Github Ignore/*
 *.rar
